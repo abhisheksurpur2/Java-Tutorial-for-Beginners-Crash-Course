@@ -49,3 +49,5 @@ public class StaticDemo
 	}
 
 }
+
+learning static keyword is much necessary
